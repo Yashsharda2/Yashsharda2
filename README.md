@@ -1,17 +1,12 @@
 Hi, I'm Yash Sharda 👋
 
 🚀 About Me__
-   🎓 1st-year ECE student, passionate about chip designing, microcontrollers.
-   🌱 Currently learning C++ programming and exploring video editing alongside my technical projects.
-   💻 Aspiring to deepen my knowledge in embedded systems and hardware design.
+   🎓 2nd-year ECE student, passionate about circuits, chip designing, drones (enginnering behind how they fly)
+   Currently learning verilog and FPGA while also exploring embedded systems.
+   
+My bigger plan is to build my own Custom flight controller for drone, complete with swarm technology  where multiple drones can coordinate and communicate with each other.
 
-💡 What I'm Learning__
-   Strengthening my skills in C++ programming.
-   Exploring the world of microcontrollers and     hardware programming. 
-   Learning the basics of video editing for fun.
-
-
-📫 How to Reach Me__
+📫 How to Reach Me
 
    Email: yashsharda2006@gmail.com
    Linkedin: https://www.linkedin.com/in/yash-sharda/
