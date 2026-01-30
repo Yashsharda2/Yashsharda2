@@ -1,8 +1,7 @@
 Hi, I'm Yash Sharda 👋
 
 🚀 About Me__
-   🎓 2nd-year ECE student, passionate about circuits, chip designing, drones (enginnering behind how they fly)
-   Currently learning verilog, FPGA and exploring embedded systems.
+   🎓 2nd-year ECE student, passionate about circuits, FPGA Design.
 
 📫 How to Reach Me
 
