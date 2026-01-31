@@ -1,7 +1,7 @@
 Hi, I'm Yash Sharda 👋
 
-🚀 About Me__
-   🎓 2nd-year ECE student, passionate about circuits, FPGA Design.
+🚀 About Me
+           2nd-year ECE student, passionate about circuits, FPGA Design and verification. Exploring FPGA-based image processing pipelines on Vaaman FPGA using Verilog HDL.
 
 📫 How to Reach Me
 
