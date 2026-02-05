@@ -6,4 +6,4 @@ Hi, I'm Yash Sharda 👋
 📫 How to Reach Me
 
    Email: yashsharda2006@gmail.com
-   Linkedin: https://www.linkedin.com/in/yash-sharda/
+   Linkedin: https://www.linkedin.com/in/yash-sharda
